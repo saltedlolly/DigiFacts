@@ -1,0 +1,79 @@
+{
+	"digifacts": [
+		{
+		"digifact_id": 1,
+		"digifact": "Thanks to its 15 second block times, DigiByte is the longest UTXO blockchain in existence with over 11 million blocks. It’s going to take Bitcoin until after next century to reach that many blocks.",
+		"digifact_url": "",
+		},
+		{
+		"digifact_id": 2,
+		"digifact": "DigiByte has upgraded the network a number of times to include “Improvement milestones”. These forks were not splits that generated additional coins, but rather a “reorientation of the ship” that everyone was onboard with.",
+		"digifact_url": "",
+		},
+		{
+		"digifact_id": 3,
+		"digifact": "DigiByte was fairly launched in 2014, long before the 2017 ICO craze of whitepaper projects. DigiByte launched with a fully working blockchain that has consistently been improved upon ever since.",
+		"digifact_url": "",
+		},
+		{
+		"digifact_id": 4,
+		"digifact": "The tiny DigiByte premine (0.5%) was given away to community members within the first 30 days, and the details can be seen on BitcoinTalk. This was to incentivize full node downloads and to distribute the blockchain. None of the pre-mine was retained by the founder or developers.",
+		"digifact_url": "",
+		},
+		{
+		"digifact_id": 5,
+		"digifact": "There is no founders reward in DigiByte. Nobody gets part of each blocks reward except whoever mined it.",
+		"digifact_url": "",
+		},
+		{
+		"digifact_id": 6,
+		"digifact": "The DigiByte founder and developers all purchased their DigiByte on an exchange at market rates, or mined their own DGB, just like you do.",
+		"digifact_url": "",
+		},
+		{
+		"digifact_id": 7,
+		"digifact": "Fees for DigiByte are incredibly low. In Block 7658349, a user sent 342,000,000 DGB (USD$6 million worth at the time) from the inputs of over 200 different addresses. It cost 1/10th of a cent (USD) in fees and took only a few seconds to confirm.",
+		"digifact_url": "",
+		},
+		{
+		"digifact_id": 8,
+		"digifact": "DigiByte pioneered the DigiShield difficulty adjustment. It’s used in Dogecoin, Ubiq, ZCash, Monacoin and parts of the code are even used in Ethereum.",
+		"digifact_url": "",
+		},
+		{
+		"digifact_id": 9,
+		"digifact": "DigiByte was the first non-Bitcoin blockchain to fix the major inflation bug in 2018. Rapid response from our rock-star developers!",
+		"digifact_url": "",
+		},
+		{
+		"digifact_id": 10,
+		"digifact": "“USA Today: 10/Jan/2014, Target: Data stolen from up to 110M customers” was saved into the “Genesis Block” of DigiByte, forever cementing the focus on Cybersecurity.",
+		"digifact_url": "",
+		},
+		{
+		"digifact_id": 11,
+		"digifact": "DigiByte was the first coin to upgrade from a single mining algorithm to MultiAlgo, for the additional security provided by having 5x algorithms. This upgrade occurred in late 2014 as the “MultiAlgo” network upgrade.",
+		"digifact_url": "",
+		},
+		{
+		"digifact_id": 12,
+		"digifact": "Originally DigiByte only used Scrypt for mining. The network upgraded to MultiAlgo, utilizing Scrypt, SHA256, Skein, Qubit & Myriad-Groestl.",
+		"digifact_url": "",
+		},
+		{
+		"digifact_id": 13,
+		"digifact": "In 2019, DigiByte upgraded the network, replacing the Myriad-Groestl algorithm for Odocrypt, to specifically target FPGA mining making that algorithm ASIC-resistant.",
+		"digifact_url": "",
+		},
+		{
+		"digifact_id": 14,
+		"digifact": "In 2018, the DigiByte community raised enough funds to supply Venezuelan refugees crossing the border with over a thousand bottles of water, feed 160 orphaned children for a month, provide essential maintenance for a Hospital, refurbish an Adicora school kitchen, and hosting several free community lunches for hundreds of people.",
+		"digifact_url": "",
+		},
+		{
+		"digifact_id": 15,
+		"digifact": "DigiByte is not an ICO or a token launched on another network, but rather a pure blockchain project with it’s own consensus rules such as Bitcoin or Vertcoin.",
+		"digifact_url": "",
+		}
+	]
+}
